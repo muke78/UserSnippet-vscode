@@ -1,0 +1,9 @@
+{
+	"Backticks o comillasd invertidas": {
+		"prefix": "back",
+		"body": [
+			"`${1:string}`"
+		],
+		"description": "Backticks o comillasd invertidas"
+	}
+}
