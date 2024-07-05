@@ -1,0 +1,12 @@
+{
+	"Función de Flecha": {
+	  "prefix": "arrow",
+	  "body": [
+		"const ${1:nombreFuncion} = (${2:params}) => {",
+		"  ${3:// código de la función}",
+		"};"
+	  ],
+	  "description": "Crea una función de flecha"
+	}
+  }
+  

@@ -1,0 +1,9 @@
+{
+	"Hace un componente vacío": {
+	  "prefix": "cont",
+	  "body": [
+		 "<${1:Componente}></${1:Componente}>"
+	  ],
+	  "description": "Hace un componente vacío"
+	}
+  }

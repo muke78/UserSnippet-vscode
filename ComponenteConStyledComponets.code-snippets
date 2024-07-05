@@ -1,0 +1,22 @@
+{
+	"Para crear componentes": {
+	  "prefix": "fc",
+	  "body": [
+		"import styled from \"styled-components\";",
+		"",
+		"export function ${1:Componente}() {",
+		"  return (",
+		"    <${2:Container}>",
+		"      <h1>${1:Componente}</h1>",
+		"    </${2:Container}>",
+		"  );",
+		"}",
+		"",
+		"const ${2:Container} = styled.div`",
+		"  /* Añade tu estilo aquí */",
+		"`;"
+	  ],
+	  "description": "Para crear componentes"
+	}
+  }
+  

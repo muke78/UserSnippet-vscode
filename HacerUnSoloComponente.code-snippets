@@ -1,0 +1,10 @@
+{
+	"Hace un componente vacío": {
+	  "prefix": "oneCont",
+	  "body": [
+		"<${1:Componente}/>"
+	  ],
+	  "description": "Hace un solo componente"
+	}
+  }
+  
